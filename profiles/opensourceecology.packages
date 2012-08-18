@@ -1,0 +1,17 @@
+blender
+freecad
+qcad
+ekiga
+irssi
+pcb2gcode
+sfact
+visolate
+kicad
+kicad-doc-en
+arduino
+lxde
+dwm
+
+# deendency stuff
+
+python-sip
