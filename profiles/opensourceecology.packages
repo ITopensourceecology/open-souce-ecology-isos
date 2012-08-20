@@ -5,13 +5,20 @@ ekiga
 irssi
 pcb2gcode
 sfact
-visolate
 kicad
 kicad-doc-en
 arduino
 lxde
 dwm
+gdm3
+cdw
+gnash
+klash
+icedtea-7-plugin
+iceweasel
+alsa-tools
 
-# deendency stuff
+
+# dependency stuff
 
 python-sip
