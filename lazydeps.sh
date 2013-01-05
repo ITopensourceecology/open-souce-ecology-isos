@@ -1,1 +1,2 @@
-apt-get install git simple-cdd quemu
+#!/bin/bash
+apt-get install git simple-cdd qumu
