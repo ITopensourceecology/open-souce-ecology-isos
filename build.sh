@@ -1,2 +1,2 @@
 #!/bin/bash
-build-simple-cdd -p opensourceecology --dist wheezy
+build-simple-cdd --profiles "opensourceecology desktop" --dist wheezy
